@@ -1,0 +1,57 @@
+.topLayout {
+  width: 141px;
+  height: 40px;
+  top: 47px;
+  left: 356px;
+}
+.borderTop {
+  border-top: 1px solid #f3e9e9;
+  font-weight: bold;
+}
+.borderBottom {
+  border-bottom: 1px solid #f3e9e9;
+  font-weight: bold;
+}
+.body1 {
+  font-family: "Inter", sans-serif !important;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.titleName {
+  font-family: "Inter", sans-serif !important;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.subtitle {
+  font-family: "Inter", sans-serif !important;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.postTitle {
+  margin: 10px 0 !important;
+  font-family: "Inter", sans-serif !important;
+  font-size: 16px;
+  font-weight: 600 !important;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.comment {
+  color: #727272;
+  font-family: "Inter", sans-serif !important;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: left;
+}
